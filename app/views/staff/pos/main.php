@@ -24,7 +24,7 @@
                 <a href="?controller=pos&action=index" class="brand">
                      QLTDCafe
                     <span class="fw-normal" style="font-size: 13px; color: #b9c4d3;">
-                        | Hệ thống quản lý quán cà phê
+                        | Hệ thống quản lý thực đơn quán cà phê
                     </span>
                 </a>
 
@@ -33,6 +33,7 @@
                        class="nav-link-custom active">
                         Bán hàng
                     </a>
+                    
                 </div>
             </div>
         </div>
@@ -42,7 +43,7 @@
 
         <!-- Tiêu đề trang -->
         <div class="page-heading">
-            <h2>Giao diện bán hàng</h2>
+            <h2>Bán hàng / POS</h2>
             <p>Nhập thông tin đồ uống và số lượng để tạo hóa đơn thanh toán.</p>
         </div>
 
@@ -114,7 +115,7 @@
                 <div class="panel">
 
                     <div class="panel-title">
-                        ℹ️ Hướng dẫn bán hàng
+                        ℹ️ Hướng dẫn sử dụng POS bán hàng
                     </div>
 
                     <div class="info-panel mb-3">
@@ -127,10 +128,17 @@
                         <p>Điền số lượng cần bán. Số lượng phải lớn hơn 0.</p>
                     </div>
 
+                    <div class="info-panel mb-3">
+                        <h6>03. Note</h6>
+                        <p>Ghi lại những yêu cầu của khách hàng.</p>
+                    </div>
+                    
                     <div class="info-panel">
-                        <h6>03. Xác nhận thanh toán</h6>
+                        <h6>04. Xác nhận thanh toán</h6>
                         <p>Nhấn nút thanh toán để hệ thống tính tiền và lưu hóa đơn.</p>
                     </div>
+
+                    
 
                 </div>
             </div>
@@ -140,7 +148,7 @@
     </main>
 
     <footer class="footer">
-        QLTDCafe &copy; 2026 — Hệ thống quản lý quán cà phê
+        &copy; 2026QLTDCafe Project. All rights reserved.
     </footer>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
