@@ -85,7 +85,7 @@
               
                    <thead>
                             <tr>
-                                <th>Ghi chú</th>
+                                <th>Ghi chú:</th>
                             </tr>
                         </thead>
                         <tbody>
